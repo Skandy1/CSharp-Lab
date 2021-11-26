@@ -1,0 +1,14 @@
+D:\SEM 5\C# LAB\Projects\Proj2\Proj2\Proj2\bin\Debug\netcoreapp3.1\Proj2.exe
+D:\SEM 5\C# LAB\Projects\Proj2\Proj2\Proj2\bin\Debug\netcoreapp3.1\Proj2.deps.json
+D:\SEM 5\C# LAB\Projects\Proj2\Proj2\Proj2\bin\Debug\netcoreapp3.1\Proj2.runtimeconfig.json
+D:\SEM 5\C# LAB\Projects\Proj2\Proj2\Proj2\bin\Debug\netcoreapp3.1\Proj2.runtimeconfig.dev.json
+D:\SEM 5\C# LAB\Projects\Proj2\Proj2\Proj2\bin\Debug\netcoreapp3.1\Proj2.dll
+D:\SEM 5\C# LAB\Projects\Proj2\Proj2\Proj2\bin\Debug\netcoreapp3.1\Proj2.pdb
+D:\SEM 5\C# LAB\Projects\Proj2\Proj2\Proj2\obj\Debug\netcoreapp3.1\Proj2.csproj.AssemblyReference.cache
+D:\SEM 5\C# LAB\Projects\Proj2\Proj2\Proj2\obj\Debug\netcoreapp3.1\Proj2.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEM 5\C# LAB\Projects\Proj2\Proj2\Proj2\obj\Debug\netcoreapp3.1\Proj2.AssemblyInfoInputs.cache
+D:\SEM 5\C# LAB\Projects\Proj2\Proj2\Proj2\obj\Debug\netcoreapp3.1\Proj2.AssemblyInfo.cs
+D:\SEM 5\C# LAB\Projects\Proj2\Proj2\Proj2\obj\Debug\netcoreapp3.1\Proj2.csproj.CoreCompileInputs.cache
+D:\SEM 5\C# LAB\Projects\Proj2\Proj2\Proj2\obj\Debug\netcoreapp3.1\Proj2.dll
+D:\SEM 5\C# LAB\Projects\Proj2\Proj2\Proj2\obj\Debug\netcoreapp3.1\Proj2.pdb
+D:\SEM 5\C# LAB\Projects\Proj2\Proj2\Proj2\obj\Debug\netcoreapp3.1\Proj2.genruntimeconfig.cache

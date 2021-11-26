@@ -1,0 +1,14 @@
+D:\SEM 5\C# LAB\Projects\Proj3\Proj3\Proj3\bin\Debug\netcoreapp3.1\Proj3.exe
+D:\SEM 5\C# LAB\Projects\Proj3\Proj3\Proj3\bin\Debug\netcoreapp3.1\Proj3.deps.json
+D:\SEM 5\C# LAB\Projects\Proj3\Proj3\Proj3\bin\Debug\netcoreapp3.1\Proj3.runtimeconfig.json
+D:\SEM 5\C# LAB\Projects\Proj3\Proj3\Proj3\bin\Debug\netcoreapp3.1\Proj3.runtimeconfig.dev.json
+D:\SEM 5\C# LAB\Projects\Proj3\Proj3\Proj3\bin\Debug\netcoreapp3.1\Proj3.dll
+D:\SEM 5\C# LAB\Projects\Proj3\Proj3\Proj3\bin\Debug\netcoreapp3.1\Proj3.pdb
+D:\SEM 5\C# LAB\Projects\Proj3\Proj3\Proj3\obj\Debug\netcoreapp3.1\Proj3.csproj.AssemblyReference.cache
+D:\SEM 5\C# LAB\Projects\Proj3\Proj3\Proj3\obj\Debug\netcoreapp3.1\Proj3.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEM 5\C# LAB\Projects\Proj3\Proj3\Proj3\obj\Debug\netcoreapp3.1\Proj3.AssemblyInfoInputs.cache
+D:\SEM 5\C# LAB\Projects\Proj3\Proj3\Proj3\obj\Debug\netcoreapp3.1\Proj3.AssemblyInfo.cs
+D:\SEM 5\C# LAB\Projects\Proj3\Proj3\Proj3\obj\Debug\netcoreapp3.1\Proj3.csproj.CoreCompileInputs.cache
+D:\SEM 5\C# LAB\Projects\Proj3\Proj3\Proj3\obj\Debug\netcoreapp3.1\Proj3.dll
+D:\SEM 5\C# LAB\Projects\Proj3\Proj3\Proj3\obj\Debug\netcoreapp3.1\Proj3.pdb
+D:\SEM 5\C# LAB\Projects\Proj3\Proj3\Proj3\obj\Debug\netcoreapp3.1\Proj3.genruntimeconfig.cache

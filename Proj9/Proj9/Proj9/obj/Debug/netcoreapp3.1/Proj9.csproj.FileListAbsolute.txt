@@ -1,0 +1,14 @@
+D:\SEM 5\C# LAB\Projects\Proj9\Proj9\Proj9\bin\Debug\netcoreapp3.1\Proj9.exe
+D:\SEM 5\C# LAB\Projects\Proj9\Proj9\Proj9\bin\Debug\netcoreapp3.1\Proj9.deps.json
+D:\SEM 5\C# LAB\Projects\Proj9\Proj9\Proj9\bin\Debug\netcoreapp3.1\Proj9.runtimeconfig.json
+D:\SEM 5\C# LAB\Projects\Proj9\Proj9\Proj9\bin\Debug\netcoreapp3.1\Proj9.runtimeconfig.dev.json
+D:\SEM 5\C# LAB\Projects\Proj9\Proj9\Proj9\bin\Debug\netcoreapp3.1\Proj9.dll
+D:\SEM 5\C# LAB\Projects\Proj9\Proj9\Proj9\bin\Debug\netcoreapp3.1\Proj9.pdb
+D:\SEM 5\C# LAB\Projects\Proj9\Proj9\Proj9\obj\Debug\netcoreapp3.1\Proj9.csproj.AssemblyReference.cache
+D:\SEM 5\C# LAB\Projects\Proj9\Proj9\Proj9\obj\Debug\netcoreapp3.1\Proj9.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEM 5\C# LAB\Projects\Proj9\Proj9\Proj9\obj\Debug\netcoreapp3.1\Proj9.AssemblyInfoInputs.cache
+D:\SEM 5\C# LAB\Projects\Proj9\Proj9\Proj9\obj\Debug\netcoreapp3.1\Proj9.AssemblyInfo.cs
+D:\SEM 5\C# LAB\Projects\Proj9\Proj9\Proj9\obj\Debug\netcoreapp3.1\Proj9.csproj.CoreCompileInputs.cache
+D:\SEM 5\C# LAB\Projects\Proj9\Proj9\Proj9\obj\Debug\netcoreapp3.1\Proj9.dll
+D:\SEM 5\C# LAB\Projects\Proj9\Proj9\Proj9\obj\Debug\netcoreapp3.1\Proj9.pdb
+D:\SEM 5\C# LAB\Projects\Proj9\Proj9\Proj9\obj\Debug\netcoreapp3.1\Proj9.genruntimeconfig.cache

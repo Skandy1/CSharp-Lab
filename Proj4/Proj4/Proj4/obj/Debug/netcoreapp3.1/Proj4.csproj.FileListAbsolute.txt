@@ -1,0 +1,13 @@
+D:\SEM 5\C# LAB\Projects\Proj4\Proj4\Proj4\bin\Debug\netcoreapp3.1\Proj4.exe
+D:\SEM 5\C# LAB\Projects\Proj4\Proj4\Proj4\bin\Debug\netcoreapp3.1\Proj4.deps.json
+D:\SEM 5\C# LAB\Projects\Proj4\Proj4\Proj4\bin\Debug\netcoreapp3.1\Proj4.runtimeconfig.json
+D:\SEM 5\C# LAB\Projects\Proj4\Proj4\Proj4\bin\Debug\netcoreapp3.1\Proj4.runtimeconfig.dev.json
+D:\SEM 5\C# LAB\Projects\Proj4\Proj4\Proj4\bin\Debug\netcoreapp3.1\Proj4.dll
+D:\SEM 5\C# LAB\Projects\Proj4\Proj4\Proj4\bin\Debug\netcoreapp3.1\Proj4.pdb
+D:\SEM 5\C# LAB\Projects\Proj4\Proj4\Proj4\obj\Debug\netcoreapp3.1\Proj4.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEM 5\C# LAB\Projects\Proj4\Proj4\Proj4\obj\Debug\netcoreapp3.1\Proj4.AssemblyInfoInputs.cache
+D:\SEM 5\C# LAB\Projects\Proj4\Proj4\Proj4\obj\Debug\netcoreapp3.1\Proj4.AssemblyInfo.cs
+D:\SEM 5\C# LAB\Projects\Proj4\Proj4\Proj4\obj\Debug\netcoreapp3.1\Proj4.csproj.CoreCompileInputs.cache
+D:\SEM 5\C# LAB\Projects\Proj4\Proj4\Proj4\obj\Debug\netcoreapp3.1\Proj4.dll
+D:\SEM 5\C# LAB\Projects\Proj4\Proj4\Proj4\obj\Debug\netcoreapp3.1\Proj4.pdb
+D:\SEM 5\C# LAB\Projects\Proj4\Proj4\Proj4\obj\Debug\netcoreapp3.1\Proj4.genruntimeconfig.cache
